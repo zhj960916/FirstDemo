@@ -2,7 +2,7 @@ package com.sinosoft.lis.connector.impl;
 
 import com.sinosoft.lis.cloud.LCAddressPojo;
 import com.sinosoft.lis.cloud.LCContPojo;
-import com.sinosoft.lis.cloud.LCInsuredPojo;
+import com.sinosoft.lis.cloud.LCInsuredPojo;                
 import com.sinosoft.lis.cloud.LCPolPojo;
 import com.sinosoft.lis.cloud.common.core.microservice.TradeInfo;
 import com.sinosoft.lis.cloud.common.redis.RedisCommonDao;
